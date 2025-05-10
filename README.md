@@ -16,7 +16,7 @@ This project is a Flask-based web application that leverages pre-trained NLP mod
 ## 🛠️ Tech Stack
 
 - **Backend**: Flask (Python)
-- **NLP**: Hugging Face Transformers (e.g., `facebook/bart-large-cnn`, `t5-base`)
+- **NLP**: Hugging Face Transformers[facebook/bart-large-cnn on Hugging Face](https://huggingface.co/facebook/bart-large-cnn)
 - **Containerization**: Docker
 - **Others**: Gunicorn (for production deployment), Requests, JSON handling
 
