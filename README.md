@@ -1,4 +1,4 @@
-# 🧠 Real-Time Text Summarization using NLP and Flask
+# 🧠 Real-Time Data Summarization using NLP and Flask
 
 This project is a Flask-based web application that leverages pre-trained NLP models from Hugging Face to generate concise summaries from lengthy documents in real-time. It enables users to submit large texts via a RESTful API and instantly receive summarized output, enhancing readability and reducing manual effort.
 
@@ -26,5 +26,4 @@ This project is a Flask-based web application that leverages pre-trained NLP mod
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/text-summarizer-flask.git
-   cd text-summarizer-flask
+   git clone https://github.com/LokeshTaduri1/Data-Summarization
